@@ -1,0 +1,16 @@
+# For macOS
+**/.DS_Store
+
+# For assets witch copyright
+**/light-bootstrap-dashboard.css
+**/pe-icon-7-stroke.css
+**/light-bootstrap-dashboard.js
+**/paper-kit.css
+**/paper-kit.js
+
+# For intertal content
+**/db.class.php
+**/valida-acesso.php
+**/sair.php
+**/imagens_capa/*
+**/imagens_destaque/*
