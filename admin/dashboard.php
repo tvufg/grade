@@ -29,7 +29,6 @@
   <link href="assets/css/light-bootstrap-dashboard.css" rel="stylesheet"/>
 
   <!--  CSS for Demo Purpose, don't include it in your project     -->
-  <!-- <link href="assets/css/demo.css" rel="stylesheet" /> -->
 
 	<link href="image-picker/image-picker.css" rel="stylesheet" />
 
@@ -45,7 +44,6 @@
 
 </head>
 <body class="sidebar-mini">
-	<!-- <div style="background-color: rgba(0, 0, 0, 0.8); height: -webkit-fill-available; width: -webkit-fill-available; z-index: 4; position: fixed; cursor: unset;"> -->
 	<div id="player-destaque" class="row" style="display: none; background-color: rgba(0, 0, 0, 0.9); height: -webkit-fill-available; width: -webkit-fill-available; z-index: 4; position: fixed;">
 		<div class="col-md-6 col-md-offset-3" style="margin-top: 2%;">
 			<button id="dismiss-player"class="btn btn-simple"style="float: right; margin-right: -80px; color: white;"href="#">
@@ -531,9 +529,6 @@
   <!-- Vector Map plugin -->
 	<script src="assets/js/jquery-jvectormap.js"></script>
 
-  <!--  Google Maps Plugin    -->
-  <!-- <script src="https://maps.googleapis.com/maps/api/js"></script> -->
-
 	<!-- Wizard Plugin    -->
   <script src="assets/js/jquery.bootstrap.wizard.min.js"></script>
 
@@ -543,15 +538,11 @@
 	<!--  Plugin for DataTables.net  -->
   <script src="assets/js/jquery.datatables.js"></script>
 
-
   <!--  Full Calendar Plugin    -->
   <script src="assets/js/fullcalendar.min.js"></script>
 
   <!-- Light Bootstrap Dashboard Core javascript and methods -->
 	<script src="assets/js/light-bootstrap-dashboard.js"></script>
-
-	<!-- Light Bootstrap Dashboard DEMO methods, don't include it in your project! -->
-	<!-- <script src="assets/js/demo.js"></script> -->
 
 	<script src="image-picker/image-picker.js"></script>
 	<script src="assets/js/transition.js"></script>

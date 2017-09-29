@@ -35,7 +35,6 @@ if(!isset($_SESSION['login'])){
     <link href="assets/css/light-bootstrap-dashboard.css" rel="stylesheet"/>
 
 		<link rel="stylesheet" type="text/css" href="CustomFileInputs/css/normalize.css" />
-		<!-- <link rel="stylesheet" type="text/css" href="CustomFileInputs/css/demo.css" /> -->
 		<link rel="stylesheet" type="text/css" href="CustomFileInputs/css/component.css" />
 
     <!--     Fonts and icons     -->
@@ -274,7 +273,6 @@ if(!isset($_SESSION['login'])){
 	<script src="assets/js/light-bootstrap-dashboard.js"></script>
 
 	<script src="CustomFileInputs/js/custom-file-input.js"></script>
-
 	<script src="assets/js/arquivos.min.js"></script>
 
 </html>

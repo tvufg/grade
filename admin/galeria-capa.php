@@ -35,7 +35,6 @@ if(!isset($_SESSION['login'])){
     <link href="assets/css/light-bootstrap-dashboard.css" rel="stylesheet"/>
 
 		<link rel="stylesheet" type="text/css" href="CustomFileInputs/css/normalize.css" />
-		<!-- <link rel="stylesheet" type="text/css" href="CustomFileInputs/css/demo.css" /> -->
 		<link rel="stylesheet" type="text/css" href="CustomFileInputs/css/component.css" />
 
     <!--     Fonts and icons     -->
@@ -189,7 +188,6 @@ if(!isset($_SESSION['login'])){
 														echo '<div style="padding: 6px; border: 1px solid #ddd; border-radius: 4px; height: inherit;">';
 															echo '<div style="height: 75%; margin-top: 8px; margin-bottom: 8px;">';
 																echo '<img src="'.$imagem.'" class="" alt="Image description" data-action="zoom" style="max-height:-webkit-fill-available; max-height: -moz-available; height:auto; display:block; width: auto; max-width: -webkit-fill-available; max-width: -moz-available; margin: 0 auto 0 auto;"/>';
-																// echo '<figcaption itemprop="caption description">Image caption</figcaption>';
 															echo '</div>';
 															echo '<input  style="float: left; margin-right: 4px;"type="checkbox" name="check-remove" value="'.$imagem.'">';
 															$nome_img = explode("/", $imagem);
@@ -306,9 +304,6 @@ if(!isset($_SESSION['login'])){
   <!-- Light Bootstrap Dashboard Core javascript and methods -->
 	<script src="assets/js/light-bootstrap-dashboard.js"></script>
 
-	<!-- <script src="photo/js/photoswipe.min.js"></script>
-	<script src="photo/js/photoswipe-ui-default.min.js"></script>
-	<script src="photo/js/script-min.js"></script> -->
 	<script src="CustomFileInputs/js/custom-file-input.js"></script>
 	<script src="assets/js/zoom.js"></script>
 	<script src="assets/js/transition.js"></script>
