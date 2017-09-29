@@ -27,7 +27,7 @@ grade
 │   ├── image-picker
 │   ├── db.class.php
 │   ├── valida-acesso.php
-│   ├── sair.php.php
+│   ├── sair.php
 │   └── Demais arquivos PHP
 ├── docs
 │   └── Documentação e arquivos de exemplo
