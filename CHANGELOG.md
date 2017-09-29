@@ -8,7 +8,7 @@ Beta release da versão de lançamento.
 
 Pequenas correções
 
-## [v1.0.0-beta (2017-09-29)](https://github.com/tvufg/grade/releases/tag/v1.0.1-beta)
+## [v1.0.1-beta (2017-09-29)](https://github.com/tvufg/grade/releases/tag/v1.0.1-beta)
 
 * Remoção de arquivos assets desnecessários
 * Correção da documentação
