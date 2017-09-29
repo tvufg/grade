@@ -67,3 +67,7 @@ São imagens do layout das principais páginas do sistema.
 Pode ser visualizada pelo link http://tvufg.org.br/grade/programacao/
 
 ![user-page](https://github.com/tvufg/grade/blob/master/docs/user-page.png "USER-PAGE")
+
+## Licença
+
+[MIT](https://github.com/tvufg/grade/blob/master/LICENSE)
