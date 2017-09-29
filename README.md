@@ -1,4 +1,6 @@
 # Grade de Programação
+[![license](https://img.shields.io/github/license/tvufg/grade.svg?)](https://github.com/tvufg/grade/blob/master/LICENSE)
+[![GitHub (pre-)release](https://img.shields.io/github/release/tvufg/grade/all.svg)](https://github.com/tvufg/grade/releases/)
 
 Sistema gerenciador da grade de programação da TV UFG
 
