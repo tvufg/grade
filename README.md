@@ -16,4 +16,6 @@ Sistema gerenciador da grade de programação da TV UFG
 
 ## Página do usuário
 
+Pode ser visualizada pelo link http://tvufg.org.br/grade/programacao/
+
 ![user-page](https://github.com/tvufg/grade/blob/master/docs/user-page.png "USER-PAGE")
