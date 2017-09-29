@@ -46,7 +46,7 @@ Observações:
 * O arquivo ```grade.sql```, é um exemplo, não muito bom, de como estão organizadas as tabelas no banco de dados.
 * A utilização de padrões arquiteturais, como MVC, e parádigmas, como OO, na construção do sistema não foram adotados devido a ausência de um projeto do sistema e limitações técnicas.
 
-## Exemplo
+## Exemplos
 
 São imagens do layout das principais páginas do sistema.
 
