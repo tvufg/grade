@@ -1,0 +1,409 @@
+/*! =========================================================
+ * programacao.css
+ * ========================================================= */
+
+.card:not(.card-plain):hover {
+  box-shadow: none;
+  transform: none;
+  -webkit-transform: none;
+  -ms-transform: none;
+  -moz-transform: none;
+}
+
+.disabled {
+  color: gray !important;
+  cursor: not-allowed !important;
+}
+
+.card {
+  box-shadow: none;
+}
+
+.card .card-block {
+  padding: 12px;
+}
+
+.panel-title i {
+  margin-right: 1%;
+  margin-top: 15px;
+}
+
+.grade-thumb {
+  padding-left: 13%;
+}
+
+.grade-info {
+  padding-right: 13%;
+}
+
+.card .img {
+  margin-left: 0px;
+}
+
+.tag-info {
+  margin-right: 10px;
+  height: 26px;
+  border-radius: 2px !important;
+}
+
+.pg-link {
+  color: #009DE0 !important;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  width: max-content;
+}
+
+.grade-logo {
+  width: 94px;
+  height: 55px;
+  border-radius: 2px !important;
+  margin-right: 3%;
+  margin-left: 1%;
+}
+
+h4.panel-title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+a.collapse-programa {
+  color: #444444;
+}
+
+.pg-descricao-title {
+  font-size: 14px;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+.pg-descricao {
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+
+#accordion .panel-title a:hover, #accordion .panel-title a:focus {
+  color: #444444;
+}
+
+div.row {
+  margin-bottom: 15px;
+}
+
+.no-ar {
+  display: inline-block;
+  margin-right: 3%;
+  font-weight:bold;
+  background-color: #C51901;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 3px;
+  letter-spacing: -0.021em;
+  font-size: 12.5px;
+  transition: 0.5s;
+}
+
+.time {
+  display: inline-block;
+  margin-right: 3%;
+  font-weight:100;
+  font-size: 18px;
+  transition: 0.5s;
+}
+
+h4, span, p {
+  font-family: opensans-light,Arial,sans-serif !important;
+}
+
+.grade-title {
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  /*line-height: 1.2;*/
+  margin-top: 0px;
+  display: inline-block;
+  transition: 0.5s;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: -3px;
+}
+
+.bg-info {
+  background-color: #009de0 !important;
+}
+
+.navbar .navbar-burger {
+  margin-top: 35px;
+}
+
+.brand-img {
+  height: 50px;
+}
+
+.brand-footer {
+  max-width: 85%;
+  margin-left: 8px;
+}
+
+.navbar-translate {
+  margin-left: calc(50% - 55px);
+}
+
+@media (min-width: 1200px) {
+  .row {
+    max-width: 1206px;
+    margin: 0px auto;
+  }
+  .panel-title {
+    max-width: 1200px;
+    margin: 0px auto;
+  }
+}
+
+@media (max-width: 1199px) {
+  .row {
+    width: calc(100% + 15px);
+  }
+
+  #download-grade {
+    display: none !important;
+  }
+}
+
+@media (max-width: 575px) {
+  img.img {
+    width: auto;
+    max-height: unset;
+  }
+
+  #link-more {
+    float: right;
+  }
+
+  .brand-footer {
+    max-width: 35%;
+  }
+
+  .grade-thumb {
+    padding-left: 28px;
+  }
+
+  .grade-info {
+    padding-right: 15px;
+    padding-left: 28px;
+    padding-top: 2%;
+  }
+
+  .grade-logo {
+    display: none;
+  }
+
+  .panel-title {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .panel-title i {
+    margin-top: 0px;
+  }
+}
+
+@media (max-width: 400px) {
+  .dataPiker{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .grade-title {
+    width: 70%;
+  }
+
+  #data {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+
+}
+
+@media (max-width: 767px) {
+  .no-ar {
+    font-size: 10px;
+    transition: 0.5s;
+  }
+
+  .grade-title {
+    font-size: 16px;
+    transition: 0.5s;
+  }
+
+  .time {
+    font-size: 16px;
+    transition: 0.5s;
+  }
+
+}
+
+@media (max-width: 340px) {
+  .data-controller {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
+@media (min-width: 826px) {
+  #link-more {
+    float: right;
+  }
+}
+
+.tooltip {
+  font-size: 12px;
+}
+
+.tooltip-inner {
+  max-width: 400px;
+  color: white;
+  box-shadow: 0 1px 13px rgba(0, 0, 0, 0.14), 0 0 0 1px rgba(115, 71, 38, 0.23);
+}
+
+.white-tooltip + .tooltip > .tooltip-inner {
+  background-color: white;
+  color: black;
+}
+
+.white-tooltip + .tooltip> .tooltip-arrow {
+  border-bottom-color:white;
+
+}
+
+.green-tooltip + .tooltip > .tooltip-inner {
+  background-color: #00b33c;
+}
+
+.green-tooltip + .tooltip> .tooltip-arrow {
+  border-bottom-color:#00b33c;
+}
+
+.blue-tooltip + .tooltip > .tooltip-inner {
+  background-color: #33ccff;
+}
+
+.blue-tooltip + .tooltip> .tooltip-arrow {
+  border-bottom-color: #33ccff;
+}
+
+.orange-tooltip + .tooltip > .tooltip-inner {
+  background-color: #ff6600;
+}
+
+.orange-tooltip + .tooltip> .tooltip-arrow {
+  border-bottom-color: #ff6600;
+}
+
+.yellow-tooltip + .tooltip > .tooltip-inner {
+  background-color: #ffcc00;
+}
+
+.yellow-tooltip + .tooltip> .tooltip-arrow {
+  border-bottom-color:#ffcc00;
+}
+
+.red-tooltip + .tooltip > .tooltip-inner {
+  background-color: #ff0000;
+}
+
+.red-tooltip + .tooltip> .tooltip-arrow {
+  border-bottom-color:#ff0000;
+}
+
+.black-tooltip + .tooltip > .tooltip-inner {
+  background-color: black;
+}
+
+.black-tooltip + .tooltip> .tooltip-arrow {
+  border-bottom-color:black;
+}
+
+@media (max-width: 992px) {
+  .wrapper {
+    margin-top: 0px !important;
+  }
+
+  .fixed-top {
+    position: relative;
+  }
+
+  .grade-piker {
+    top: 0px !important;
+    position: sticky !important;
+    position: -webkit-sticky !important;
+  }
+
+  .navbar-translate {
+    width: unset;
+  }
+
+}
+
+@media (max-width: 991px) {
+  .video {
+    margin-right: -15px;
+  }
+
+  #searchForm {
+    width: 300px;
+  }
+
+  ul.thumbnails.image_picker_selector {
+    margin-left: 38px;
+  }
+
+}
+
+@media (min-width: 1630px) {
+  .video {
+    margin-right: -15px;
+  }
+}
+
+@media (max-width: 767px) {
+  ul.thumbnails.image_picker_selector {
+    margin-left: 24px;
+  }
+}
+
+@media (max-width: 500px) {
+  #searchForm {
+    width: 150px;
+  }
+}
+
+.image_picker_image {
+  width: 140px;
+}
+.panel-heading .caret {
+  margin-top: 25px;
+}
+
+.img {
+  max-width: 100%;
+  height: auto;
+  max-height: 198px;
+}
+
+.panel-default > .panel-heading {
+  background-color: transparent;
+}
+
+.panel-default {
+  background-color: #f9f9f9;
+}
+
+.panel-default {
+  transition: background-color 0.6s;
+}
+
+.panel {
+  border-bottom: solid 1px #eee;
+}
