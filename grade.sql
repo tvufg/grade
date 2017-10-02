@@ -557,8 +557,7 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `login`, `senha`) VALUES
-(1, 'ASCOM', 'ef07d02679a60bd25676b8c1b9d803fa'),
-(2, 'toor', '5c448724481c36f82faef2546aef67f6');
+(1, 'exemple', 'ef07d02679a60bd2567f5ty1b9d803fa')ç
 
 --
 -- Índices de tabelas apagadas
