@@ -21,6 +21,11 @@ Use a estrutura abaixo como guia para localização desses arquivos e pastar no 
 ```
 grade
 ├── CHANGELOG.md
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── PULL_REQUEST_TEMPLATE.md
+├── README.md
 ├── admin
 │   ├── assets
 │   ├── CustomFileInputs
@@ -44,7 +49,7 @@ grade
 
 Observações:
 * O arquivo ```grade.sql```, é um exemplo, não muito bom, de como estão organizadas as tabelas no banco de dados.
-* A utilização de padrões arquiteturais, como MVC, e paradigmas, como OO, na construção do sistema não foram adotados devido a ausência de um projeto do sistema e limitações técnicas.
+* A utilização de padrões arquiteturais, como **MVC**, e paradigmas, como **OO**, na construção do sistema não foram adotados devido a ausência de um projeto do sistema e limitações técnicas.
 
 ## Exemplos
 
