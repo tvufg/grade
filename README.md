@@ -15,6 +15,10 @@ São eles:
 * **imagens_capa/**: Pasta contendo as imagens que são utilizada como capa do programa.
 * **imagens_destaque/**: Pasta contendo as imagens que são utilizada como destaque (imagem maior) do programa.
 * **pdf/**: Pasta contendo os arquivos PDF com a grade de programação de cada dia.
+* **Recursos de estilo**:  
+  * light-bootstrap-dashboard: Tema por Creative-Tim, disponível pelo link https://www.creative-tim.com/product/light-bootstrap-dashboard-pro  
+  * paper-kit: Tema por Creative-Tim, disponível pelo link https://www.creative-tim.com/product/paper-kit-2-pro
+
 
 Use a estrutura abaixo como guia para localização desses arquivos e pastar no projeto:
 
