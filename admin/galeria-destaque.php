@@ -41,7 +41,7 @@ if(!isset($_SESSION['login'])){
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
     <link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet" />
-		<link href="assets/css/galeria.min.css" rel="stylesheet" />
+		<link href="assets/css/galeria.css" rel="stylesheet" />
 		<link href="assets/css/zoom.css" rel="stylesheet">
 
 		<!-- remove this if you use Modernizr -->
@@ -300,6 +300,6 @@ if(!isset($_SESSION['login'])){
 	<script src="CustomFileInputs/js/custom-file-input.js"></script>
 	<script src="assets/js/zoom.js"></script>
 	<script src="assets/js/transition.js"></script>
-	<script src="assets/js/galeria-destaque.min.js"></script>
+	<script src="assets/js/galeria-destaque.js"></script>
 
 </html>

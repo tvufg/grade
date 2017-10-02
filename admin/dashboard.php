@@ -34,7 +34,7 @@
 
 	<link href="assets/css/zoom.css" rel="stylesheet">
 
-	<link href="assets/css/dashboard.min.css" rel="stylesheet"/>
+	<link href="assets/css/dashboard.css" rel="stylesheet"/>
 
   <!--     Fonts and icons     -->
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
@@ -547,5 +547,5 @@
 	<script src="image-picker/image-picker.js"></script>
 	<script src="assets/js/transition.js"></script>
 	<script src="assets/js/zoom.js"></script>
-	<script src="assets/js/dashboard.min.js"></script>
+	<script src="assets/js/dashboard.js"></script>
 </html>
