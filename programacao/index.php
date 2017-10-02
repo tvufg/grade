@@ -16,7 +16,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
     <link href="assets/css/tooltip.css" rel="stylesheet" />
     <link href="assets/css/paper-kit.css" rel="stylesheet"/>
-    <link href="assets/css/programacao.min.css" rel="stylesheet"/>
+    <link href="assets/css/programacao.css" rel="stylesheet"/>
 
     <!--     Fonts and icons     -->
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,300,700' rel='stylesheet' type='text/css'>
@@ -210,5 +210,5 @@
   <script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
   <script src="assets/js/paper-kit.js?v=2.0.0"></script>
   <script src="assets/js/tooltip.js" type="text/javascript"></script>
-  <script src="assets/js/programacao.min.js"></script>
+  <script src="assets/js/programacao.js"></script>
 </html>
