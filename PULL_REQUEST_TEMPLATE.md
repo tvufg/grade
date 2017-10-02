@@ -1,14 +1,14 @@
-## Requirements
+## Requisitos
 
-* It is recommended that you complete the template. Any pull request that does not include enough information to be reviewed in a timely manner may be closed at the maintainers' discretion.
-* It is recommended that all new code pass at least acceptance tests.
+* Recomenda-se que você complete o template. Qualquer pull request que não inclua informações suficientes para ser revisado em tempo hábil pode ser fechado a critério dos mantenedores.
+* Recomenda-se que todos os novos códigos passem pelo menos por testes de aceitação.
 
-## Alternate Designs
+## Design Alternativos
 
-## Why Should This Be In Core?
+## Proque isso deveria estar no núcleo?
 
-## Benefits
+## Benefícios
 
-## Possible Drawbacks
+## Possíveis Desvantagens
 
-## Applicable Issues
+## Issues Aplicáveis
