@@ -216,8 +216,9 @@ $( document ).ready(function() {
     dia = "0" + dia;
   }
 
-
-  if (mes < 10) {
+  if (mes >= 9) {
+    mes = "" + (mes + 1);
+  } else {
     mes = "0" + (mes + 1);
   }
 
@@ -263,7 +264,9 @@ $( document ).ready(function() {
   }
 
 
-  if (nextmes < 10) {
+  if (nextmes >= 9) {
+    nextmes = "" + (nextmes + 1);
+  } else {
     nextmes = "0" + (nextmes + 1);
   }
 
@@ -303,7 +306,9 @@ $( document ).ready(function() {
       dia = "0" + dia;
     }
 
-    if (mes < 10) {
+    if (mes >= 9) {
+      mes = "" + (mes + 1);
+    } else {
       mes = "0" + (mes + 1);
     }
 
@@ -322,7 +327,9 @@ $( document ).ready(function() {
       lastdia = "0" + lastdia;
     }
 
-    if (lastmes < 10) {
+    if (lastmes >= 9) {
+      lastmes = "" + (lastmes + 1);
+    } else {
       lastmes = "0" + (lastmes + 1);
     }
 
@@ -364,7 +371,9 @@ $( document ).ready(function() {
       dia = "0" + dia;
     }
 
-    if (mes < 10) {
+    if (mes >= 9) {
+      mes = "" + (mes + 1);
+    } else {
       mes = "0" + (mes + 1);
     }
 
@@ -383,7 +392,9 @@ $( document ).ready(function() {
       nextdia = "0" + nextdia;
     }
 
-    if (nextmes < 10) {
+    if (nextmes >= 9) {
+      nextmes = "" + (nextmes + 1);
+    } else {
       nextmes = "0" + (nextmes + 1);
     }
 
