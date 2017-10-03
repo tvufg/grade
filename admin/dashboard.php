@@ -37,10 +37,10 @@
 	<link href="assets/css/dashboard.css" rel="stylesheet"/>
 
   <!--     Fonts and icons     -->
-  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
-  <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
+	<link href="assets/css/font-awesome.css" rel="stylesheet"/>
+  <link href="assets/css/roboto.css" rel="stylesheet"/>
   <link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet" />
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="assets/js/jquery.min.js"></script>
 
 </head>
 <body class="sidebar-mini">

@@ -38,8 +38,8 @@ if(!isset($_SESSION['login'])){
 		<link rel="stylesheet" type="text/css" href="CustomFileInputs/css/component.css" />
 
     <!--     Fonts and icons     -->
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
+		<link href="assets/css/font-awesome.css" rel="stylesheet"/>
+	  <link href="assets/css/roboto.css" rel="stylesheet"/>
     <link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet" />
 		<link href="assets/css/galeria.css" rel="stylesheet" />
 		<link href="assets/css/zoom.css" rel="stylesheet">
@@ -47,7 +47,7 @@ if(!isset($_SESSION['login'])){
 		<!-- remove this if you use Modernizr -->
 		<script>(function(e,t,n){var r=e.querySelectorAll("html")[0];r.className=r.className.replace(/(^|\s)no-js(\s|$)/,"$1js$2")})(document,window,0);</script>
 
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script src="assets/js/jquery.min.js"></script>
 	</head>
 
 	<body class="sidebar-mini">
