@@ -1,5 +1,10 @@
 # Release notes
 
+## [v1.0.2 (2017-10-02)](https://github.com/tvufg/grade/releases/tag/v1.0.2)
+
+* Ajustes nas dependências
+* Atualização da documentação
+
 ## [v1.0.2-beta (2017-10-02)](https://github.com/tvufg/grade/releases/tag/v1.0.2-beta)
 
 Correção da query de busca da data.
